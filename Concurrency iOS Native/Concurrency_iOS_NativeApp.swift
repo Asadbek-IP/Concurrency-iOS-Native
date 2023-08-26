@@ -11,7 +11,7 @@ import SwiftUI
 struct Concurrency_iOS_NativeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           MainActorView()
         }
     }
 }
